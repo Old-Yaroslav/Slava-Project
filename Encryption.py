@@ -1,4 +1,4 @@
-from cryptography.fernet import Fernet
+
 
 class Encryptor:
     def __init__(self):
